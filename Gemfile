@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+gem "minima", "~> 2.0"
+gem "github-pages"
+gem "jekyll-feed", "~> 0.6"
+gem "jekyll-json"
+gem "json"
+gem "bigdecimal"
+gem "rake"
